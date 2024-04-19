@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/AmbroseGriffit3
 [instagram]: https://www.instagram.com/Ambrose Griffiths
-[linkedin]: https://linkedin.com/in/Ambrose Griffiths
+[linkedin]: https://linkedin.com/in/Agriffiths
